@@ -1,7 +1,10 @@
 # -*- coding: utf-8 -*-
 '''VGG16 model for Keras.
+
 # Reference:
+
 - [Very Deep Convolutional Networks for Large-Scale Image Recognition](https://arxiv.org/abs/1409.1556)
+
 '''
 from __future__ import print_function
 
@@ -35,15 +38,18 @@ def VGG16(include_top=True, weights='imagenet',
           pooling=None,
           classes=1000):
     """Instantiates the VGG16 architecture.
+
     Optionally loads weights pre-trained
     on ImageNet. Note that when using TensorFlow,
     for best performance you should set
     `image_data_format="channels_last"` in your Keras config
     at ~/.keras/keras.json.
+
     The model and the weights are compatible with both
     TensorFlow and Theano. The data format
     convention used by the model is the one
     specified in your Keras config file.
+
     # Arguments
         include_top: whether to include the 3 fully-connected
             layers at the top of the network.
@@ -72,8 +78,10 @@ def VGG16(include_top=True, weights='imagenet',
         classes: optional number of classes to classify images
             into, only to be specified if `include_top` is True, and
             if no `weights` argument is specified.
+
     # Returns
         A Keras model instance.
+
     # Raises
         ValueError: in case of invalid argument for `weights`,
             or invalid input shape.
