@@ -1,5 +1,5 @@
 # covid-vs-pneumonia
-x-ray distinguish Covid vs Pneumonia cases using Densenet Architecture
+x-ray distinguish Covid vs Pneumonia cases 
 
 COVID-19, or more commonly known as the Novel Coronavirus disease is a highly infectious disease that appeared in China towards the end of 2019. This disease is caused by SARS-CoV-2, a virus that belongs to the large family of coronaviruses. The disease first originated in Wuhan, China in December 2019 and soon became a global pandemic, spreading to more than 213 countries.
 The most common symptoms of COVID-19 are fever, dry cough, and tiredness. Other symptoms that people may experience include aches, pains, or difficulty in breathing. Most of these symptoms show signs of respiratory infections and lung abnormalities which can be detected by radiologists.
