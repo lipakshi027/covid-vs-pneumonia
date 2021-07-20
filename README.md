@@ -3,7 +3,7 @@ COVID-19 Detection- Flask-App-based on chest x rays
 
 COVID-19, or more commonly known as the Novel Coronavirus disease is a highly infectious disease that appeared in China towards the end of 2019. This disease is caused by SARS-CoV-2, a virus that belongs to the large family of coronaviruses. The disease first originated in Wuhan, China in December 2019 and soon became a global pandemic, spreading to more than 213 countries.
 The most common symptoms of COVID-19 are fever, dry cough, and tiredness. Other symptoms that people may experience include aches, pains, or difficulty in breathing. Most of these symptoms show signs of respiratory infections and lung abnormalities which can be detected by radiologists.
-Thus, it is possible to use Machine Learning algorithms to detect the disease from images of Chest X-rays and CT scans. Automated applications can be created to help support radiologists. This article is an attempt to use four Deep Learning algorithms, namely: VGG16, ResNet50, InceptionV3 and Xception.
+Thus, it is possible to use Machine Learning algorithms to detect the disease from images of Chest X-rays . Automated applications can be created to help support radiologists. This article is an attempt to use four Deep Learning algorithms, namely: VGG16, ResNet50, InceptionV3 and Xception.
 
 # Dataset
 For dataset and weights https://drive.google.com/drive/folders/1pTA9X2zQdyzIENxS3VA7lbJzKVT_nyYd?usp=sharing
